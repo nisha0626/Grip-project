@@ -1,8 +1,8 @@
 
-# Basic-Banking-System
+# Basic-Banking-System Website
 
 # FOUNDATION Bank
-<h3>The Sparks Foundation Internship Project : Basic Banking System</h3>
+<h3>The Sparks Foundation Internship Project : Basic Banking System Website</h3>
 A Dynamic Website is used to transfer money between 10 users.<br>
 Stack used -
 <h4>Front-end : HTML, CSS, Bootstrap &amp; Javascript</h4>
